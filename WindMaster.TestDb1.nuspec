@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <copyright>$author$</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>http://localhost</projectUrl>
+    <iconUrl>https://d26ogar5mbvu9a.cloudfront.net/ImagesIcons/rw-logo_35x35.png</iconUrl>
+    <description>$description$</description>
+    <language>en-US</language>
+    <tags></tags>
+  </metadata>
+</package>
