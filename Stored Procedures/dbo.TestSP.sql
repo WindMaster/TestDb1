@@ -16,5 +16,6 @@ BEGIN
 
     -- Insert statements for procedure here
 	SELECT * FROM dbo.TestTable1
+	SELECT * FROM dbo.TestTable2
 END
 GO
